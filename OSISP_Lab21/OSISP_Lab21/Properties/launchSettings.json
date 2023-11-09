@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "OSISP_Lab21": {
+      "commandName": "Project",
+      "commandLineArgs": "5 6 fgdf"
+    }
+  }
+}

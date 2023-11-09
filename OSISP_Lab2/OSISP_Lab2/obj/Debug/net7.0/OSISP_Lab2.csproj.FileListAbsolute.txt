@@ -1,0 +1,15 @@
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\bin\Debug\net7.0\OSISP_Lab2.exe
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\bin\Debug\net7.0\OSISP_Lab2.deps.json
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\bin\Debug\net7.0\OSISP_Lab2.runtimeconfig.json
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\bin\Debug\net7.0\OSISP_Lab2.dll
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\bin\Debug\net7.0\OSISP_Lab2.pdb
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.csproj.AssemblyReference.cache
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.AssemblyInfoInputs.cache
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.AssemblyInfo.cs
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.csproj.CoreCompileInputs.cache
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.dll
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\refint\OSISP_Lab2.dll
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.pdb
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\OSISP_Lab2.genruntimeconfig.cache
+C:\Users\MyPC\source\c#\OSISP_Lab2\OSISP_Lab2\obj\Debug\net7.0\ref\OSISP_Lab2.dll

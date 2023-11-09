@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "OSISP_Lab2/1.0.0": {
+        "runtime": {
+          "OSISP_Lab2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "OSISP_Lab2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
